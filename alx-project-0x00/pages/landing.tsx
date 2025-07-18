@@ -31,6 +31,7 @@ export default function Landing() {
       <Button title="Large Rounded-sm" styles="text-lg rounded-sm" />
       <Button title="Large Rounded-md" styles="text-lg rounded-md" />
       <Button title="Large Rounded-full" styles="text-lg rounded-full" />
+      <Button title="Large Rounded-lg" styles="text-lg rounded-lg" />
     </div>
   );
 }
